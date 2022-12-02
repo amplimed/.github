@@ -2,7 +2,7 @@
 
 # Boas-vindas!
 
-Essa é a organização da [Amplimed](https://www.amplimed.com.br), uma healthtech líder em software de prontuário eletrônico e telemedicina, que faz parte do Grupo RD – RaiaDrogasil, e visa conectar e fortalecer todo ecossistema de saúde no Brasil. 
+Essa é a organização da [Amplimed](https://www.amplimed.com.br), uma healthtech líder em software de prontuário eletrônico e telemedicina, que faz parte do [Grupo RD – RaiaDrogasil](https://rd.com.br), e visa conectar e fortalecer todo ecossistema de saúde no Brasil. 
 
 Oferecemos uma solução completa para gestão de clínicas e consultórios, incluindo prontuário eletrônico, plataforma de telemedicina, prescrição eletrônica, solicitação de exames, agendamento e confirmação de consultas, gestão financeira e faturamento TISS. 
 
@@ -10,7 +10,7 @@ Fundada há 7 anos em Chapecó (SC) pelos empreendedores da área de tecnologia:
 
 ## 💡 Nossa solução
 
-O Software Médico Amplimed foi desenvolvido por médicos que entendem a sua necessidade, dispondo de recursos que otimizam as tarefas da sua clínica, tais como: Telemedicina, Agendamento Online, Prontuário Eletrônico, Módulo Financeiro e Faturamento TISS.
+O Software Médico Amplimed foi desenvolvido por médicos que entendem a necessidade de seus clientes, dispondo de recursos que otimizam as tarefas da clínica, tais como: Telemedicina, Agendamento Online, Prontuário Eletrônico, Módulo Financeiro e Faturamento TISS.
 
 * [Financeiro e Faturamento TISS](https://www.amplimed.com.br/financeiro-amplimed/)
 * [Prontuário Eletrônico](https://www.amplimed.com.br/prontuario-amplimed/)
